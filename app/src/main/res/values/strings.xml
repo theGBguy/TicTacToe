@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="action_settings">Settings</string>
+    <string name="for_game">Game Button</string>
+    <string name="btn_name">Start the Game!</string>
+    <string name="txt_dialog_title">Please Wait!!</string>
+    <string name="txt_dialog_confirmation">Same box can\'t be played twice!  </string>
+    <string name="btnOkay">Okay</string>
+    <string name="txt_for_fun">सोचेर खेलम है ! मेरो गल्ती भएछ भनेर फेरी थिच्न पाइन्न नी |</string>
+</resources>
